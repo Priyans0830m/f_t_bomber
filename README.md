@@ -1,8 +1,7 @@
 # f_t_bomber
 
 <h1 align="center">priyans0830m</h1>
-<p align="center">An SMS/call/email![CC_20220504_223338]
- bomber for Linux And Termux.</p><br>
+<p align="center">An SMS/call/email bomber for Linux And Termux.</p><br>
 
 
 ## this tool can:
