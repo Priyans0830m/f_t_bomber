@@ -40,6 +40,14 @@ This is harder for spam filters to detect since each email would be coming from 
 
 
 ![20220508_210412](https://user-images.githubusercontent.com/97976765/167303625-b986829c-f41f-420d-b39f-ce73e13c092b.jpg)
+ 
+
+
+# HOW TO USE THIS TOOL :- https://youtu.be/iR9ZEpVVkYY
 
 
 
+### YouTube :- https://youtube.com/channel/UC7fdwziFWZeKdtcZVYIKO4Q
+### Twitter :-  https://twitter.com/priyanshu_7270
+### Telegram:- https://t.me/s/priyans0830m
+### 
