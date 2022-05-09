@@ -43,7 +43,7 @@ This is harder for spam filters to detect since each email would be coming from 
  
 
 
-# HOW TO USE THIS TOOL :- https://youtu.be/iR9ZEpVVkYY
+# HOW TO USE THIS TOOL :- https://youtu.be/
 
 
 
